@@ -61,7 +61,7 @@
     color: white;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #211414;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
@@ -263,7 +263,7 @@
 }
 
 .contact-section .social a:active {
-  color: #fff;
+  color: #211414;
 }
 
 body {
