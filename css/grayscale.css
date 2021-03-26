@@ -182,7 +182,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #3a2030;
   }
 }
 
@@ -196,7 +196,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #3a2030;
     border-width: .25rem;
     width: 30%;
   }
@@ -219,7 +219,7 @@
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
-  border: 0;
+  border: #3a2030;
 }
 
 .contact-section {
@@ -228,7 +228,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid ##3a2030;
 }
 
 .contact-section .card h4 {
@@ -239,7 +239,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: ##3a2030;
   border-width: 0.25rem;
   width: 3rem;
 }
