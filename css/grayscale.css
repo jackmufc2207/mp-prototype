@@ -72,13 +72,13 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #fff;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #fff;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
